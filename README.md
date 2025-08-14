@@ -23,7 +23,7 @@ The aim is to uncover **trends, patterns, and correlations** that influence glob
 ---
 
 
-**world-happiness-report/**
+## world-happiness-report
 │
 ├── World happiness Task sheet.ipynb   
 ├── requirements.txt                   
