@@ -31,4 +31,5 @@ The aim is to uncover **trends, patterns, and correlations** that influence glob
 └── README.md                           
 
 **License**
-This project is for educational and research purposes only
+
+This project is for educational and research purposes only.
