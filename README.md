@@ -1,4 +1,4 @@
-# 🌍 World Happiness Report Analysis
+#  World Happiness Report Analysis
 
 ## 📌 Overview
 This project provides an **in-depth analysis** of the global *World Happiness Report* dataset using **Python** and popular data science libraries.  
@@ -25,10 +25,10 @@ The aim is to uncover **trends, patterns, and correlations** that influence glob
 
 **world-happiness-report/**
 │
-├── World happiness Task sheet.ipynb   # Main analysis notebook
-├── requirements.txt                   # Python dependencies
-├── data/                               # CSV datasets for analysis
-└── README.md                           # Project documentation
+├── World happiness Task sheet.ipynb   
+├── requirements.txt                   
+├── World-happiness-report-2024.csv                            
+└── README.md                           
 
 **License**
 This project is for educational and research purposes only
